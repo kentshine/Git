@@ -18,6 +18,10 @@ git init
 ```
 git add <filename>
 ```
+To track all the files
+```
+git add <filename> .
+```
 ### Git Log
 - Current log (author,mail,date)
 - Previous commit
