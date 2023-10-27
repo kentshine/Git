@@ -42,7 +42,7 @@ git log
 ```
 git log --pretty=oneline
 ```
-- See only which files have changed:
+> See only which files have changed:
 ```
 git log --name-status
 ```
@@ -85,7 +85,7 @@ git tag -a v1.0 -m "<msg>"
 git tag v1.4-lw
 ```
 ### Tag Push
-- To push the tag
+> To push the tag
 ```
 git push origin v1.0
 ```
