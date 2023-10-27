@@ -90,31 +90,31 @@ git tag v1.4-lw
 git push origin v1.0
 ```
 ### Branch
-- Create branch:
+> Create branch:
 ```
 git checkout -b <branch name>
 ```
-- List the branch:
+> List the branch:
 ```
 git branch
 ```
-- Switch to an existing branch in Git:
+> Switch to an existing branch in Git:
 ```
 git checkout <branch name>
 ```
-- Switch to previous branch:
+> Switch to previous branch:
 ```
 git switch -
 ```
-- Delete the branch:
+> Delete the branch:
 ```
 git branch -d <branch name>
 ```
-- To push branch to Git repo.:
+> To push branch to Git repo.:
 ```
 git push origin <branch name>
 ```
-- Merging with the main branch:
+> Merging with the main branch:
 ```
 git merge <branch name>
 ```
