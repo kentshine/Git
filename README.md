@@ -1,6 +1,6 @@
 # Git
 
-### Version
+### Git Version
 ```
 -v
 --version
@@ -39,7 +39,7 @@ Issue Tracking
 ```
 git commit -m <msg>
 ```
-### Status
+### Git Status
 ```
 git status
 ```
