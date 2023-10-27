@@ -27,12 +27,24 @@ git add <filename> .
 ```
 git rm --cached <filename>
 ```
+- Undo git rm 
+```
+git reset
+```
 ### Git Log
 - Current log (author,mail,date)
 - Previous commit
 
 ```
 git log
+```
+- To see a very compressed log where each commit is one line:
+```
+git log --pretty=oneline
+```
+- See only which files have changed:
+```
+git log --name-status
 ```
 ### Git Commit
 - Issue Tracking
@@ -100,4 +112,12 @@ git push origin <branch name>
 - Merging with the main branch
 ```
 git merge <branch name>
+```
+### Git Aliases
+- Creating shortcuts' for Git commands
+- eg:  Instead of typing git commit, you just need to type git ci.
+```
+ git config --global alias.br branch
+ git config --global alias.ci commit
+ git config --global alias.st status
 ```
