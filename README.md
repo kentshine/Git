@@ -23,6 +23,7 @@ To track all the files
 git add <filename> .
 ```
 ### Git Remove
+- The Git rm –cached flag removes a file from the staging area.
 ```
 git rm --cached <filename>
 ```
