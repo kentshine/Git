@@ -120,7 +120,7 @@ git merge <branch name>
 ```
 ### Git Aliases
 - Creating shortcuts' for Git commands
-- eg:  Instead of typing git commit, you just need to type git ci.
+> eg:  Instead of typing git commit, you just need to type git ci.
 ```
  git config --global alias.br branch
  git config --global alias.ci commit
