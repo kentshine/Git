@@ -55,12 +55,17 @@ Working Dir. ----> Staging area ----> Local commit
 git add <file name>
 ```
 ### Git Tag
+- Tags are ref's that point to specific points in Git history.
 ```
 git tag
 ```
-- Annotated
+- Annotated Tag
 ```
 git tag -a v1.0 -m "<msg>"
+```
+- Lightweight Tag
+```
+git tag v1.4-lw
 ```
 ### Tag Push
 - To push the tag
@@ -91,4 +96,8 @@ git branch -d <branch name>
 - To push branch to Git repo.
 ```
 git push origin <branch name>
+```
+- Merging with the main branch
+```
+git merge <branch name>
 ```
