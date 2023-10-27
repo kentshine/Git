@@ -23,17 +23,17 @@ git add <filename>
 git add <filename> .
 ```
 ### Git Remove
-- The Git rm –cached flag removes a file from the staging area.
+> The Git rm –cached flag removes a file from the staging area.
 ```
 git rm --cached <filename>
 ```
-- Undo git rm 
+> Undo git rm 
 ```
 git reset
 ```
 ### Git Log
 - Current log (author,mail,date)
-- Previous commit
+> Previous commit
 
 ```
 git log
