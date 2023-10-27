@@ -86,6 +86,10 @@ git add <file name>
 ```
 git tag
 ```
+> Delete Tag
+```
+git tag -d v1.0
+```
 - Annotated Tag
 ```
 git tag -a v1.0 -m "<msg>"
