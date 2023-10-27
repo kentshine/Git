@@ -67,4 +67,20 @@ git tag -a v1.0 -m "<msg>"
 ```
 git push origin v1.0
 ```
-
+### Branch
+- Create branch
+```
+git checkout -b <branch name>
+```
+- List the branch
+```
+git branch
+```
+- Switch to an existing branch in Git
+```
+git checkout <branch name>
+```
+- Switch to previous branch
+```
+git switch -
+```
