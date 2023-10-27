@@ -54,5 +54,13 @@ Working Dir. ----> Staging area ----> Local commit
 ```
 git add <file name>
 ```
+### Git Tag
+```
+git tag
+```
+- Annotated
+```
+git tag -a v1.0 -m "<msg>"
+```
 
 
