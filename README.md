@@ -1,6 +1,5 @@
 <h1 align="center">Git</h1>
 
-
 ### Git Version
 ```
 -v
@@ -39,7 +38,7 @@ git reset
 ```
 git log
 ```
-- To see a very compressed log where each commit is one line:
+> To see a very compressed log where each commit is one line:
 ```
 git log --pretty=oneline
 ```
