@@ -84,3 +84,11 @@ git checkout <branch name>
 ```
 git switch -
 ```
+- Delete the branch
+```
+git branch -d <branch name>
+```
+- To push branch to Git repo.
+```
+git push origin <branch name>
+```
