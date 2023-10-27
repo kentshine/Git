@@ -62,5 +62,9 @@ git tag
 ```
 git tag -a v1.0 -m "<msg>"
 ```
-
+### Tag Push
+- To push the tag
+```
+git push origin v1.0
+```
 
