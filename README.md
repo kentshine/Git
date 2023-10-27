@@ -57,11 +57,21 @@ git commit -m <msg>
 git revert HEAD
 ```
 ### Git Status
+> Checking the Status of Your Files
 ```
 git status
 ```
+> Short Status
+```
+git status -s
+```
+### File Moving
+> mv
+```
+git mv file_from file_to
+```
 ### Checksum
-- check the first 7 char.
+> check the first 7 char.
 ```
 [main (root-commit) fd914d5]
 ```
