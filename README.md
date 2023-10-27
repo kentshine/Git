@@ -18,7 +18,7 @@ git init
 ```
 git add <filename>
 ```
-- To track all the files
+> To track all the files
 ```
 git add <filename> .
 ```
