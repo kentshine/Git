@@ -22,6 +22,10 @@ To track all the files
 ```
 git add <filename> .
 ```
+### Git Remove
+```
+git rm --cached <filename>
+```
 ### Git Log
 - Current log (author,mail,date)
 - Previous commit
