@@ -18,7 +18,7 @@ git init
 ```
 git add <filename>
 ```
-To track all the files
+- To track all the files
 ```
 git add <filename> .
 ```
@@ -35,7 +35,7 @@ git rm --cached <filename>
 git log
 ```
 ### Git Commit
-Issue Tracking
+- Issue Tracking
 ```
 git commit -m <msg>
 ```
