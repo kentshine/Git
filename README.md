@@ -1,3 +1,4 @@
+<img src="git.png" alt="Logo" width="300" height="100">
 <h1 align="center">Git</h1>
 
 ### Git Version
