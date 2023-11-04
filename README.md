@@ -1,4 +1,4 @@
-<img src="git.png" alt="Logo" width="300" height="100" backgroundcolor="black">
+![Logo](git.png)
 
 ### Git Version
 ```
