@@ -84,7 +84,7 @@ Working Dir. ----> Staging area ----> Local commit
 git add <file name>
 ```
 ### Git Tag
-- Tags are ref's that point to specific points in Git history.
+> Tags are ref's that point to specific points in Git history.
 ```
 git tag
 ```
