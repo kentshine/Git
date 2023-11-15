@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p><bold>There are many different ways to use Git. Git supports many command-line tools and graphical user interfaces. The Git command line is the only place where you can run all the Git commands.<bold><p>
+ <p> **There are many different ways to use Git. Git supports many command-line tools and graphical user interfaces. The Git command line is the only place where you can run all the Git commands.**<p>
 </div>
 
 ### Git Version
