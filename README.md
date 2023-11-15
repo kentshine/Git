@@ -1,5 +1,6 @@
 <div align="center">
   <img src="git.png" alt="Logo" width="100" height="100" style="display:block; margin:auto;">
+  <p>There are many different ways to use Git. Git supports many command-line tools and graphical user interfaces. The Git command line is the only place where you can run all the Git commands.<p>
 </div>
 
 ### Git Version
