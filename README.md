@@ -147,3 +147,15 @@ git merge <branch name>
  git config --global alias.ci commit
  git config --global alias.st status
 ```
+### Sent Mail
+>  Send a collection of patches as emails
+
+```
+git send-email [<options>] <file|directory>…​
+```
+```
+git send-email [<options>] <format-patch options>
+```
+```
+git send-email --dump-aliases
+```
