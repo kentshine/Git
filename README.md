@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="git.png" alt="Logo" width="100" height="100" style="display:block; margin:auto;">
+ <img class="git-logo" src="git.png" alt="Logo" width="100" height="100" style="margin:auto;">
 
-  
+  
 </div>
 
 
@@ -10,6 +10,7 @@ There are many different ways to use Git. Git supports many command-line tools a
 
 
 Ref.: [ProGit](progit.pdf)
+
 
 
 
