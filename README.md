@@ -165,3 +165,10 @@ git send-email [<options>] <format-patch options>
 ```
 git send-email --dump-aliases
 ```
+
+### Git -diff
+> shows the diff between your staged changes and the <commit>
+
+```
+git diff --cached <commit>
+```
